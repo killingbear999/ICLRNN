@@ -1,5 +1,5 @@
 # ICLRNN for Fast and Robust Engineering Tasks
-**Library for code execution: Tensorflow Keras, Pyipopt, Numpy, sklearn** </br>
+**Library for code execution: Tensorflow Keras, Pyipopt, Numpy, Sklearn** </br>
 
 File description:
 * docker.pptx includes the instruction on how to install Pyipopt into Docker on your laptop. </br>
