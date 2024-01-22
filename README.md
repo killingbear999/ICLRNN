@@ -1,6 +1,9 @@
-# ICLRNN for Fast and Robust Engineering Tasks
-**Library for code execution: Tensorflow Keras, Pyipopt, Numpy, Sklearn** </br>
+# Input Convex Lipschitz Recurrent Neural Networks for Fast and Robust Engineering Tasks
 
+Zihao Wang, P S Pravin, Zhe Wu </br>
+Paper: https://arxiv.org/abs/2401.07494 </br>
+
+**Requires: Python 3.11.3, Tensorflow Keras 2.13.0, Pyipopt, Numpy, Sklearn** </br>
 File description:
 * docker.pptx includes the instruction on how to install Pyipopt into Docker on your laptop. </br>
 * Codes for MNIST experiments are available in MNIST folder. </br>
@@ -10,3 +13,14 @@ File description:
 FYI:
 * .ipynb files can be run on Jupyter Notebook or Google Colab.
 * Pyipopt can be installed and run on Docker. Codes in MPC subfolder use Pyipopt.
+
+## Citation </br>
+If you find our work relevant to your research, please cite:
+```
+@article{wang2024input,
+  title={Input Convex Lipschitz RNN: A Fast and Robust Approach for Engineering Tasks},
+  author={Wang, Zihao and Pravin, PS and Wu, Zhe},
+  journal={arXiv preprint arXiv:2401.07494},
+  year={2024}
+}
+```
