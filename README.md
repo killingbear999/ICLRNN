@@ -7,7 +7,7 @@ Paper: https://arxiv.org/abs/2401.07494 </br>
 File description:
 * docker.pptx includes the instruction on how to install Pyipopt into Docker on your laptop. </br>
 * Codes for MNIST experiments are available in MNIST folder. </br>
-* Codes for Solar PV system experiments are available in SolarPV folder. Due to confidentiality concerns, the data is considered proprietary to the company and, as such, is not uploaded for public usage. Nevertheless, you can access the results through the ipynb notebook. </br>
+* Codes for Solar PV system experiments are available in SolarPV folder. Due to confidentiality concerns, we are sorry that the data is considered proprietary to the company and, as such, is not uploaded for public usage.
 * Codes for MPC experiments are available in MPC folder. There are two subfolders. Codes in CSTR subfolder are used to model the system dynamics. Codes in MPC subfolder are used to study the performance of neural networks in NN-based MPC optimization. iclrnn_original_256_0.h5, lrnn_256_0.h5, lstm_256_0.h5, rnn_256_0.h5 are trained models to be embedded into their respective MPC files.
 
 FYI:
