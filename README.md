@@ -1,4 +1,4 @@
-# Input Convex Lipschitz Recurrent Neural Networks for Fast and Robust Engineering Tasks
+# Input Convex Lipschitz RNN: A Fast and Robust Approach for Engineering Tasks
 
 Zihao Wang, P S Pravin, Zhe Wu </br>
 Paper: https://arxiv.org/abs/2401.07494 </br>
