@@ -1,7 +1,7 @@
 # Input Convex Lipschitz RNN: A Fast and Robust Approach for Engineering Tasks
 
 Zihao Wang and Zhe Wu </br>
-Paper: https://arxiv.org/abs/2401.07494 </br>
+Paper: https://arxiv.org/abs/2401.07494 (We are working on the update of the manuscript) </br>
 
 Requires: Python 3.11.3, Tensorflow Keras 2.13.0, Pyipopt, Numpy, Sklearn </br>
 
